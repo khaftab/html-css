@@ -1,0 +1,3 @@
+[submodule "blooger-master"]
+	path = blooger-master
+	url = https://github.com/khaftab/blooger-master.git
